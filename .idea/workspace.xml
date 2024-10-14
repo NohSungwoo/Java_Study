@@ -4,52 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53b123f9-0816-4b00-919b-a83766115803" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloJava2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operater1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+    <list default="true" id="53b123f9-0816-4b00-919b-a83766115803" name="Changes" comment="Java 복습">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "http://github.com/NohSungwoo/Java_Study",
+    "accountId": "e5284f07-245b-4225-9672-1667f26ed6d3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -84,6 +46,7 @@
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.CondOp1.executor": "Run",
+    "Application.DoWhile.executor": "Run",
     "Application.Exercise.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloJava2.executor": "Run",
@@ -204,6 +167,19 @@
       <option name="presentableId" value="Default" />
       <updated>1727788617251</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java 복습">
+      <option name="closed" value="true" />
+      <created>1728917244540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728917244540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java 복습" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java 복습" />
   </component>
 </project>
